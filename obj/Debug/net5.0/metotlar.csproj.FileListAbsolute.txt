@@ -1,0 +1,16 @@
+D:\education\PatikaPratikler\metotlar\bin\Debug\net5.0\metotlar.exe
+D:\education\PatikaPratikler\metotlar\bin\Debug\net5.0\metotlar.deps.json
+D:\education\PatikaPratikler\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+D:\education\PatikaPratikler\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+D:\education\PatikaPratikler\metotlar\bin\Debug\net5.0\metotlar.dll
+D:\education\PatikaPratikler\metotlar\bin\Debug\net5.0\metotlar.pdb
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.dll
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\refint\metotlar.dll
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.pdb
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
+D:\education\PatikaPratikler\metotlar\obj\Debug\net5.0\ref\metotlar.dll
